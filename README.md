@@ -2,6 +2,8 @@
 
 ## Zur Person
 
+![Max Mustermann](https://github.com/alexandergamm/Einkaufsliste/blob/Obst/icon.png)
+
 > Name: Max Mustermann
 >
 > Geboren am: 01.01.1970
